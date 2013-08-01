@@ -19,7 +19,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###Layout
 [Isotope](http://isotope.metafizzy.co/): A complete layout library  
-[Masonry](http://masonry.desandro.com/): Layout library for Masonry grids
+[Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
+[Mason](https://github.com/DrewDahlman/Mason): jQuery Masonry grid with a very useful feature - columns with equal height
 
 ###Sliders
 [Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only  
