@@ -34,5 +34,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Supersized](http://buildinternet.com/project/supersized): Fullscreen background slideshow plugin  
 [iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too
 
+###UI Elements - Tables
+[TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
+
 ###UI Elements - Tabs
 [Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily
