@@ -38,6 +38,9 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Supersized](http://buildinternet.com/project/supersized): Fullscreen background slideshow plugin  
 [iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too
 
+###UI Elements - Images & Photos
+[TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually
+
 ###UI Elements - Responsive Menu
 [FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation. 
 
