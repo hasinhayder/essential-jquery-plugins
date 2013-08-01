@@ -18,8 +18,9 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Filter](http://www.jscraft.net/plugins/filters.html): A fantastic grid layout library with smart sorting :)  
 [MixItUp](http://mixitup.io/): An amazing library for different types of sorting and filtering. You will love it for sure!
 
-###Form Enhancements / Form Elements
+###Form Elements - Select Box
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
+
 
 ###Layout
 [Isotope](http://isotope.metafizzy.co/): A complete layout library  
@@ -33,4 +34,5 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Supersized](http://buildinternet.com/project/supersized): Fullscreen background slideshow plugin  
 [iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too
 
-
+###UI Elements - Tabs
+[Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily
