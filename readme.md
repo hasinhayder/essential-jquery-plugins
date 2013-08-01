@@ -36,7 +36,7 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only  
 [Sequence JS](http://www.sequencejs.com/): The Slider Reimagined for the Modern Web, comes with fantastic CSS3 transitions and parallux  
 [Supersized](http://buildinternet.com/project/supersized): Fullscreen background slideshow plugin  
-[iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too
+[iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too  
 [Orbit](https://github.com/zurb/orbit): Another beautiful slider plugin from Zurb
 
 ###UI Elements - Images & Photos
@@ -46,7 +46,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.
 
 ###UI Elements - Responsive Menu
-[FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation. 
+[FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation.   
+[SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu
 
 ###UI Elements - Tables
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
