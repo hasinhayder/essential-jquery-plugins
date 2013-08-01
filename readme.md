@@ -47,7 +47,10 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###UI Elements - Lightboxes & Modals
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/): Magnific Popup is a responsive jQuery lightbox plugin that is focused on performance and providing best experience for user with any device  
-[FlipLightBox](http://flipgallery.net/fliplightbox.html): Responsive Lightbox jQuery Plugin
+[FlipLightBox](http://flipgallery.net/fliplightbox.html): Responsive Lightbox jQuery Plugin  
+[PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/): PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.
+
+
 
 ###UI Elements - Responsive Menu
 [FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation.   
