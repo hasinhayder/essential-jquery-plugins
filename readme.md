@@ -45,6 +45,9 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 ###UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.
 
+###UI Elements - Modals
+[Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/): Magnific Popup is a responsive jQuery lightbox plugin that is focused on performance and providing best experience for user with any device
+
 ###UI Elements - Responsive Menu
 [FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation.   
 [SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu
