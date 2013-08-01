@@ -9,6 +9,10 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 ###Carousels
 [Owl Carousel](http://owlgraphic.com/owlcarousel/): A fantastic carousel plugin you can use in your responsive projects
 
+###CSS3 Animations & Transitions
+[Transit](http://ricostacruz.com/jquery.transit/): CSS3 Transition and Animation Library
+
+
 ###Form Enhancements / Form Elements
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
 
