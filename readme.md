@@ -22,6 +22,10 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
 
 
+###Form Validation
+[Parsley](https://github.com/guillaumepotier/Parsley.js): Javascript form validation, without actually writing a single line of javascript.
+ 
+
 ###Layout
 [Isotope](http://isotope.metafizzy.co/): A complete layout library  
 [Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
