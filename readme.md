@@ -18,7 +18,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
 
 ###Layout
-[Isotope](http://isotope.metafizzy.co/): A complete layout library
+[Isotope](http://isotope.metafizzy.co/): A complete layout library  
+[Masonry](http://masonry.desandro.com/): Layout library for Masonry grids
 
 ###Sliders
 [Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only  
