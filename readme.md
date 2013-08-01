@@ -10,4 +10,4 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###Sliders
 [Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only
-
+ 
