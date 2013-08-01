@@ -11,8 +11,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###CSS3 Animations & Transitions
 [Transit](http://ricostacruz.com/jquery.transit/): CSS3 Transition and Animation Library  
-[Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks
-
+[Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
+[ElementTransition](http://dan-silver.github.io/ElementTransitions.js/):Simple & beautiful transitions for web pages
 
 ###Form Enhancements / Form Elements
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
