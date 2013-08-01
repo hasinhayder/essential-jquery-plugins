@@ -12,15 +12,18 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 ###CSS3 Animations & Transitions
 [Transit](http://ricostacruz.com/jquery.transit/): CSS3 Transition and Animation Library  
 [Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
-[ElementTransition](http://dan-silver.github.io/ElementTransitions.js/):Simple & beautiful transitions for web pages
+[ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
 
 ###Form Enhancements / Form Elements
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
+
+###Layout
+[Isotope](http://isotope.metafizzy.co/): A complete layout library
 
 ###Sliders
 [Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only  
 [Sequence JS](http://www.sequencejs.com/): The Slider Reimagined for the Modern Web, comes with fantastic CSS3 transitions and parallux  
 [Supersized](http://buildinternet.com/project/supersized): Fullscreen background slideshow plugin  
-[iView](http://iprodev.com/iview/) Beautiful and slick slider plugin which is responsive too
+[iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too
 
 
