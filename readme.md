@@ -14,6 +14,10 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
 [ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
 
+###Filtering & Sorting
+[Filter](http://www.jscraft.net/plugins/filters.html): A fantastic grid layout library with smart sorting :)  
+[MixItUp](http://mixitup.io/): An amazing library for different types of sorting and filtering. You will love it for sure!
+
 ###Form Enhancements / Form Elements
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
 
@@ -21,7 +25,7 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Isotope](http://isotope.metafizzy.co/): A complete layout library  
 [Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
 [Mason](https://github.com/DrewDahlman/Mason): jQuery Masonry grid with a very useful feature - columns with equal height  
-[Filter](http://www.jscraft.net/plugins/filters.html): A fantastic grid layout library with smart sorting :)
+
 
 ###Sliders
 [Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only  
