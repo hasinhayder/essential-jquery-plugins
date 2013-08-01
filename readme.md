@@ -9,5 +9,5 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Owl Carousel](http://owlgraphic.com/owlcarousel/): A fantastic carousel plugin you can use in your responsive projects
 
 ###Sliders
-[Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only
- 
+[Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only  
+[Sequence JS](http://www.sequencejs.com/): The Slider Reimagined for the Modern Web, comes with fantastic CSS3 transitions and parralux
