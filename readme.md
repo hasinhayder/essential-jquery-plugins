@@ -10,7 +10,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Owl Carousel](http://owlgraphic.com/owlcarousel/): A fantastic carousel plugin you can use in your responsive projects
 
 ###CSS3 Animations & Transitions
-[Transit](http://ricostacruz.com/jquery.transit/): CSS3 Transition and Animation Library
+[Transit](http://ricostacruz.com/jquery.transit/): CSS3 Transition and Animation Library  
+[Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks
 
 
 ###Form Enhancements / Form Elements
