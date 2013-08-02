@@ -41,7 +41,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###UI Elements - Images & Photos
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
-[Adipoli](http://cube3x.com/adipoli-jquery-image-hover-plugin/): Adipoli is a simple jQuery plugin used to bring stylish image hover effects
+[Adipoli](http://cube3x.com/adipoli-jquery-image-hover-plugin/): Adipoli is a simple jQuery plugin used to bring stylish image hover effects  
+[BackStretch](http://srobbin.com/jquery-plugins/backstretch/): a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element
 
 ###UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.
