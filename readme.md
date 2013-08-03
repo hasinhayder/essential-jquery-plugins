@@ -16,7 +16,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###Filtering & Sorting
 [Filter](http://www.jscraft.net/plugins/filters.html): A fantastic grid layout library with smart sorting :)  
-[MixItUp](http://mixitup.io/): An amazing library for different types of sorting and filtering. You will love it for sure!
+[MixItUp](http://mixitup.io/): An amazing library for different types of sorting and filtering. You will love it for sure!  
+[TableSorter](http://tablesorter.com/docs/): Easy and excellent table sorter plugin.
 
 ###Form Elements - Select Box
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
