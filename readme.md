@@ -59,6 +59,9 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation.   
 [SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu
 
+###UI Elements - Scrollers
+[NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.
+
 ###UI Elements - Tables
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
 
