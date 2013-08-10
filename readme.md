@@ -34,7 +34,7 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###Scrolling and Parallax
 [Scrollorama](http://johnpolacek.github.io/scrollorama/): The jQuery plugin for doing cool scrolly stuff  
-
+[Setller.js](http://markdalgleish.com/projects/stellar.js/): Parallax has bener been so easier
 
 
 ###Sliders
