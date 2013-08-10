@@ -32,6 +32,10 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
 [Mason](https://github.com/DrewDahlman/Mason): jQuery Masonry grid with a very useful feature - columns with equal height  
 
+###Scrolling and Parallax
+[Scrollorama](http://johnpolacek.github.io/scrollorama/): The jQuery plugin for doing cool scrolly stuff  
+
+
 
 ###Sliders
 [Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only  
