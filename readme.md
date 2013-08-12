@@ -71,4 +71,5 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
 
 ###UI Elements - Tabs
-[Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily
+[Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily  
+[NanoTabs](www.sunsean.com/nanotabs/): That's right - beautiful tabs in a nano sized plugin. 
