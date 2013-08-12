@@ -42,7 +42,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Sequence JS](http://www.sequencejs.com/): The Slider Reimagined for the Modern Web, comes with fantastic CSS3 transitions and parallux  
 [Supersized](http://buildinternet.com/project/supersized): Fullscreen background slideshow plugin  
 [iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too  
-[Orbit](https://github.com/zurb/orbit): Another beautiful slider plugin from Zurb
+[Orbit](https://github.com/zurb/orbit): Another beautiful slider plugin from Zurb  
+[Superslider](https://github.com/nicinabox/superslides): A fullscreen, hardware accelerated slider for jQuery
 
 ###UI Elements - Images & Photos
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
