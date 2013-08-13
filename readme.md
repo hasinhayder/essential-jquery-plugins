@@ -32,7 +32,8 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###Image Processing, Canvas & SVG
 [BlurJS](http://blurjs.com/): A jQuery plugin that produces psuedo-transparent 
-blurred elements over other elements
+blurred elements over other elements  
+[TiltShift](http://www.noeltock.com/tilt-shift-css3-jquery-plugin/): Obtain Tiltshift/Mniature effect using this cool jQuery Plugin.
  
 
 ###Layout
