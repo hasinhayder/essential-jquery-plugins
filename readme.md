@@ -17,6 +17,7 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 ###Events
 [TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction
 
+
 ###Filtering & Sorting
 [Filter](http://www.jscraft.net/plugins/filters.html): A fantastic grid layout library with smart sorting :)  
 [MixItUp](http://mixitup.io/): An amazing library for different types of sorting and filtering. You will love it for sure!  
@@ -28,6 +29,10 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 
 ###Form Validation
 [Parsley](https://github.com/guillaumepotier/Parsley.js): Javascript form validation, without actually writing a single line of javascript.
+
+###Image Processing, Canvas & SVG
+[BlurJS](http://blurjs.com/): A jQuery plugin that produces psuedo-transparent 
+blurred elements over other elements
  
 
 ###Layout
