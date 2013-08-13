@@ -32,6 +32,9 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
 [Mason](https://github.com/DrewDahlman/Mason): jQuery Masonry grid with a very useful feature - columns with equal height  
 
+###Events
+[TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction
+
 ###Scrolling and Parallax
 [Scrollorama](http://johnpolacek.github.io/scrollorama/): The jQuery plugin for doing cool scrolly stuff  
 [Setller.js](http://markdalgleish.com/projects/stellar.js/): Parallax has bener been so easier
