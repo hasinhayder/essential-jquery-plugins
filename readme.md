@@ -24,7 +24,9 @@ That's right. here I will be maintaining a list of very useful and handy jQuery 
 [TableSorter](http://tablesorter.com/docs/): Easy and excellent table sorter plugin.
 
 ###Form Elements - Select Box
-[Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes
+[Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes  
+[FancySelect](http://code.octopuscreative.com/fancyselect/): A better select for discerning web developers everywhere.
+
 
 
 ###Form Validation
