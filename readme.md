@@ -55,7 +55,8 @@ blurred elements over other elements
 [Supersized](http://buildinternet.com/project/supersized): Fullscreen background slideshow plugin  
 [iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too  
 [Orbit](https://github.com/zurb/orbit): Another beautiful slider plugin from Zurb  
-[Superslider](https://github.com/nicinabox/superslides): A fullscreen, hardware accelerated slider for jQuery
+[Superslider](https://github.com/nicinabox/superslides): A fullscreen, hardware accelerated slider for jQuery  
+[SliderJS](http://www.slidesjs.com/): SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions. 
 
 ###UI Elements - Images & Photos
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
