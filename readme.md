@@ -63,13 +63,15 @@ blurred elements over other elements
 [Adipoli](http://cube3x.com/adipoli-jquery-image-hover-plugin/): Adipoli is a simple jQuery plugin used to bring stylish image hover effects  
 [BackStretch](http://srobbin.com/jquery-plugins/backstretch/): a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element
 
-###UI Elements - Others
-[JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.
+
 
 ###UI Elements - Lightboxes & Modals
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/): Magnific Popup is a responsive jQuery lightbox plugin that is focused on performance and providing best experience for user with any device  
 [FlipLightBox](http://flipgallery.net/fliplightbox.html): Responsive Lightbox jQuery Plugin  
 [PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/): PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.
+
+###UI Elements - Others
+[JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.
 
 
 
@@ -79,6 +81,9 @@ blurred elements over other elements
 
 ###UI Elements - Scrollers
 [NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.
+
+###UI Elements - Toolbar
+[Toolbar.js](http://paulkinzett.github.io/toolbar/): A jQuery plugin that creates tooltip style toolbars
 
 ###UI Elements - Tables
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
