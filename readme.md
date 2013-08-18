@@ -52,6 +52,7 @@ blurred elements over other elements
 [Setller.js](http://markdalgleish.com/projects/stellar.js/): Parallax has bener been so easier  
 [Arbitrary Anchor](http://briangonzalez.org/arbitrary-anchor): ARBITRARY ANCHOR SCROLLING FOR ANY ELEMENT ON YOUR PAGE  
 [ScrollTo](http://flesler.blogspot.com/2007/10/jqueryscrollto.html): A simple jQuery plugin for scrolling elements, or the window itself. 
+[Sticky Kit](http://leafo.net/sticky-kit/): Sticky-kit provides an easy way to attach elements to the page when the user scrolls such that the element is always visible.
 
 
 ###Sliders
