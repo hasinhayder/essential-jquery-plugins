@@ -43,6 +43,9 @@ blurred elements over other elements
 [Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
 [Mason](https://github.com/DrewDahlman/Mason): jQuery Masonry grid with a very useful feature - columns with equal height  
 
+###Lazy Loading
+[Echo.Js](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/): Simple JavaScript image lazy loading
+
 
 ###Scrolling and Parallax
 [Scrollorama](http://johnpolacek.github.io/scrollorama/): The jQuery plugin for doing cool scrolly stuff  
