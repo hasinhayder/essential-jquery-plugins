@@ -80,7 +80,8 @@ blurred elements over other elements
 [SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu
 
 ###UI Elements - Scrollers
-[NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.
+[NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.  
+[NiceScroll](http://areaaperta.com/nicescroll/): Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.
 
 ###UI Elements - Toolbar
 [Toolbar.js](http://paulkinzett.github.io/toolbar/): A jQuery plugin that creates tooltip style toolbars
