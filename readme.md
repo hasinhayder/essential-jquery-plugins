@@ -80,7 +80,8 @@ blurred elements over other elements
 [PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/): PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.
 
 ###UI Elements - Others
-[JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.
+[JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.  
+[LazyMouse](http://hasinhayder.github.io/LazyMouse/): Detect Mouse Inactivity easily with this tiny jQuery Plugin. 
 
 
 
