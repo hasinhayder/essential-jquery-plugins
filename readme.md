@@ -50,7 +50,8 @@ blurred elements over other elements
 ###Scrolling and Parallax
 [Scrollorama](http://johnpolacek.github.io/scrollorama/): The jQuery plugin for doing cool scrolly stuff  
 [Setller.js](http://markdalgleish.com/projects/stellar.js/): Parallax has bener been so easier  
-[Arbitrary Anchor](http://briangonzalez.org/arbitrary-anchor): ARBITRARY ANCHOR SCROLLING FOR ANY ELEMENT ON YOUR PAGE
+[Arbitrary Anchor](http://briangonzalez.org/arbitrary-anchor): ARBITRARY ANCHOR SCROLLING FOR ANY ELEMENT ON YOUR PAGE  
+[ScrollTo](http://flesler.blogspot.com/2007/10/jqueryscrollto.html): A simple jQuery plugin for scrolling elements, or the window itself. 
 
 
 ###Sliders
