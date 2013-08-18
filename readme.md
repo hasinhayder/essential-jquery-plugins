@@ -2,6 +2,8 @@
 
 That's right. here I will be maintaining a list of very useful and handy jQuery plugins so that you don't have to search for the appropriate one while working in a project. If you want to add anything new, just fork this repo and send me a pull request. Have Fun!
 
+This list is curated by [Hasin Hayder](http://hasin.me)
+
 **No Commercial plugins, unless it has a free version**
 
 
