@@ -17,7 +17,8 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
 
 ###Events
-[TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction
+[TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction  
+[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element, simple and powerful
 
 
 ###Filtering & Sorting
