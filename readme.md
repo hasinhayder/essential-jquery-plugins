@@ -49,6 +49,9 @@ blurred elements over other elements
 ###Lazy Loading
 [Echo.Js](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/): Simple JavaScript image lazy loading
 
+###Mouse
+[LazyMouse](http://hasinhayder.github.io/LazyMouse/): Detect Mouse Inactivity easily with this tiny jQuery Plugin.   
+
 
 ###Scrolling and Parallax
 [Scrollorama](http://johnpolacek.github.io/scrollorama/): The jQuery plugin for doing cool scrolly stuff  
@@ -82,7 +85,7 @@ blurred elements over other elements
 
 ###UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.  
-[LazyMouse](http://hasinhayder.github.io/LazyMouse/): Detect Mouse Inactivity easily with this tiny jQuery Plugin. 
+[FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.
 
 
 
@@ -94,11 +97,12 @@ blurred elements over other elements
 [NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.  
 [NiceScroll](http://areaaperta.com/nicescroll/): Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.
 
+###UI Elements - Tables
+[TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
+
 ###UI Elements - Toolbar
 [Toolbar.js](http://paulkinzett.github.io/toolbar/): A jQuery plugin that creates tooltip style toolbars
 
-###UI Elements - Tables
-[TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
 
 ###UI Elements - Tabs
 [Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily  
