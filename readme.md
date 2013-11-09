@@ -118,3 +118,6 @@ blurred elements over other elements
 ###UI Elements - Tabs
 [Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily  
 [NanoTabs](www.sunsean.com/nanotabs/): That's right - beautiful tabs in a nano sized plugin. 
+
+###UI Elements - WYSIWYG
+[SirTrevor](http://madebymany.github.io/sir-trevor-js/): A beautiful rich content editor reimagined for web.
