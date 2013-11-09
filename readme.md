@@ -50,6 +50,9 @@ blurred elements over other elements
 ###Lazy Loading
 [Echo.Js](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/): Simple JavaScript image lazy loading
 
+###Media Players
+[jPlayer](http://jplayer.org/): The jQuery HTML5 Audio / Video Library
+
 ###Mouse
 [LazyMouse](http://hasinhayder.github.io/LazyMouse/): Detect Mouse Inactivity easily with this tiny jQuery Plugin.   
 
@@ -70,6 +73,10 @@ blurred elements over other elements
 [Orbit](https://github.com/zurb/orbit): Another beautiful slider plugin from Zurb  
 [Superslider](https://github.com/nicinabox/superslides): A fullscreen, hardware accelerated slider for jQuery  
 [SliderJS](http://www.slidesjs.com/): SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions. 
+
+###Sound & Audio
+[Ion.Sound](http://ionden.com/a/plugins/ion.sound/en.html): Nifty jQuery library to play sound on events
+
 
 ###UI Elements - Images & Photos
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
