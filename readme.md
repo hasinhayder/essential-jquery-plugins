@@ -75,7 +75,8 @@ blurred elements over other elements
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
 [Adipoli](http://cube3x.com/adipoli-jquery-image-hover-plugin/): Adipoli is a simple jQuery plugin used to bring stylish image hover effects  
 [BackStretch](http://srobbin.com/jquery-plugins/backstretch/): a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element  
-[Taggd](http://timseverien.nl/taggd): Taggd is a jQuery plugin that help you create tags on images with, or without a popup!
+[Taggd](http://timseverien.nl/taggd): Taggd is a jQuery plugin that help you create tags on images with, or without a popup!  
+[jGallery](http://jgallery.jakubkowalczyk.pl/): Beautiful jQuery photo gallery with albums and preloader
 
 
 
