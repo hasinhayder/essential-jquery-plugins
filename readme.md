@@ -18,7 +18,8 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 
 ###Events
 [TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction  
-[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element, simple and powerful
+[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element, simple and powerful  
+[KeyPress](http://dmauro.github.io/Keypress/): 
 
 
 ###Filtering & Sorting
@@ -39,6 +40,7 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [BlurJS](http://blurjs.com/): A jQuery plugin that produces psuedo-transparent 
 blurred elements over other elements  
 [TiltShift](http://www.noeltock.com/tilt-shift-css3-jquery-plugin/): Obtain Tiltshift/Mniature effect using this cool jQuery Plugin.
+
  
 
 ###Layout
@@ -62,7 +64,8 @@ blurred elements over other elements
 [Setller.js](http://markdalgleish.com/projects/stellar.js/): Parallax has bener been so easier  
 [Arbitrary Anchor](http://briangonzalez.org/arbitrary-anchor): ARBITRARY ANCHOR SCROLLING FOR ANY ELEMENT ON YOUR PAGE  
 [ScrollTo](http://flesler.blogspot.com/2007/10/jqueryscrollto.html): A simple jQuery plugin for scrolling elements, or the window itself.   
-[Sticky Kit](http://leafo.net/sticky-kit/): Sticky-kit provides an easy way to attach elements to the page when the user scrolls such that the element is always visible.
+[Sticky Kit](http://leafo.net/sticky-kit/): Sticky-kit provides an easy way to attach elements to the page when the user scrolls such that the element is always visible.  
+[FullPage](http://alvarotrigo.com/fullPage): Create Beautiful Fullscreen Scrolling Websites
 
 
 ###Sliders
@@ -76,6 +79,9 @@ blurred elements over other elements
 
 ###Sound & Audio
 [Ion.Sound](http://ionden.com/a/plugins/ion.sound/en.html): Nifty jQuery library to play sound on events
+
+###UI Elements - Calendar
+[CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin
 
 
 ###UI Elements - Images & Photos
