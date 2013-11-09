@@ -114,6 +114,9 @@ blurred elements over other elements
 [NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.  
 [NiceScroll](http://areaaperta.com/nicescroll/): Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.
 
+###UI Elements - Social Sharing
+[jQuery Tweetable](https://github.com/jmduke/jquery.tweetable.js): A simple li'l plugin that lets you make site content easily tweetable.
+
 ###UI Elements - Tables
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
 
