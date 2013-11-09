@@ -94,7 +94,8 @@ blurred elements over other elements
 
 ###UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.  
-[FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.
+[FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
+[Hubspot Messaging Library](http://github.hubspot.com/messenger/): To show transactional messages in your app
 
 
 
