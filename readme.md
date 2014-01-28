@@ -76,15 +76,15 @@ blurred elements over other elements
 [iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too  
 [Orbit](https://github.com/zurb/orbit): Another beautiful slider plugin from Zurb  
 [Superslider](https://github.com/nicinabox/superslides): A fullscreen, hardware accelerated slider for jQuery  
-[SliderJS](http://www.slidesjs.com/): SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions. 
+[SliderJS](http://www.slidesjs.com/): SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.   
 [GlideJS](http://jedrzejchalubek.com/glide/): Responsive, lightweight and touch friendly slider that works in every device
 
 ###Sound & Audio
 [Ion.Sound](http://ionden.com/a/plugins/ion.sound/en.html): Nifty jQuery library to play sound on events
 
 ###Typography
-[CircleType.js](http://circletype.labwire.ca/): Circletype.js is a tiny (2.7kb) jQuery plugin that lets you set type on a circle and allows to use any font
-[FitText](http://fittextjs.com/): Fittext makes any text to fit in the container of any size
+[CircleType.js](http://circletype.labwire.ca/): Circletype.js is a tiny (2.7kb) jQuery plugin that lets you set type on a circle and allows to use any font  
+[FitText](http://fittextjs.com/): Fittext makes any text to fit in the container of any size  
 [FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 
 ###UI Elements - Calendar
@@ -97,7 +97,7 @@ blurred elements over other elements
 [BackStretch](http://srobbin.com/jquery-plugins/backstretch/): a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element  
 [Taggd](http://timseverien.nl/taggd): Taggd is a jQuery plugin that help you create tags on images with, or without a popup!  
 [jGallery](http://jgallery.jakubkowalczyk.pl/): Beautiful jQuery photo gallery with albums and preloader  
-[Pongstagr.am](http://pongstr.github.io/pongstagr.am/): A jQuery plugin that lets you display your Instagram media to your website using Bootstrap Front-end styles and modal-plugin.
+[Pongstagr.am](http://pongstr.github.io/pongstagr.am/): A jQuery plugin that lets you display your Instagram media to your website using Bootstrap Front-end styles and modal-plugin.  
 [jGallery](http://jgallery.jakubkowalczyk.pl/): An obtrusive gallery plugin with someamazing effects. 
 
 
