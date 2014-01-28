@@ -83,7 +83,7 @@ blurred elements over other elements
 
 ###Typography
 [CircleType.js](http://circletype.labwire.ca/): Circletype.js is a tiny (2.7kb) jQuery plugin that lets you set type on a circle and allows to use any font
-
+[FitText](http://fittextjs.com/): Fittext makes any text to fit in the container of any size
 
 ###UI Elements - Calendar
 [CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin
