@@ -1,203 +1,204 @@
+
 <!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-43279528-2', 'hasinhayder.github.io');
-  ga('send', 'pageview');
+    ga('create', 'UA-43279528-2', 'hasinhayder.github.io');
+    ga('send', 'pageview');
 
 </script>
 <style>
 body {
-  font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: white;
-  padding: 30px; 
-  background-image: url(img/squairy_light.png);
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    padding: 30px;
+    background-image: url(img/squairy_light.png);
 }
 
 body > *:first-child {
-  margin-top: 0 !important; }
+    margin-top: 0 !important; }
 body > *:last-child {
-  margin-bottom: 0 !important; }
+    margin-bottom: 0 !important; }
 
 a {
-  color: #4183C4; }
+    color: #4183C4; }
 a.absent {
-  color: #cc0000; }
+    color: #cc0000; }
 a.anchor {
-  display: block;
-  padding-left: 30px;
-  margin-left: -30px;
-  cursor: pointer;
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0; }
+    display: block;
+    padding-left: 30px;
+    margin-left: -30px;
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 20px 0 10px;
-  padding: 0;
-  font-weight: bold;
-  -webkit-font-smoothing: antialiased;
-  cursor: text;
-  position: relative; }
+    margin: 20px 0 10px;
+    padding: 0;
+    font-weight: bold;
+    -webkit-font-smoothing: antialiased;
+    cursor: text;
+    position: relative; }
 
 h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
-  text-decoration: none; }
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+    text-decoration: none; }
 
 h1 tt, h1 code {
-  font-size: inherit; }
+    font-size: inherit; }
 
 h2 tt, h2 code {
-  font-size: inherit; }
+    font-size: inherit; }
 
 h3 tt, h3 code {
-  font-size: inherit; }
+    font-size: inherit; }
 
 h4 tt, h4 code {
-  font-size: inherit; }
+    font-size: inherit; }
 
 h5 tt, h5 code {
-  font-size: inherit; }
+    font-size: inherit; }
 
 h6 tt, h6 code {
-  font-size: inherit; }
+    font-size: inherit; }
 
 h1 {
-  font-size: 28px;
-  color: black; }
+    font-size: 28px;
+    color: black; }
 
 h2 {
-  font-size: 24px;
-  border-bottom: 1px solid #cccccc;
-  color: black; }
+    font-size: 24px;
+    border-bottom: 1px solid #cccccc;
+    color: black; }
 
 h3 {
-  font-size: 18px; }
+    font-size: 18px; }
 
 h4 {
-  font-size: 16px; }
+    font-size: 16px; }
 
 h5 {
-  font-size: 14px; }
+    font-size: 14px; }
 
 h6 {
-  color: #777777;
-  font-size: 14px; }
+    color: #777777;
+    font-size: 14px; }
 
 p, blockquote, ul, ol, dl, li, table, pre {
-  margin: 15px 0; }
+    margin: 15px 0; }
 
 hr {
-  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
-  border: 0 none;
-  color: #cccccc;
-  height: 4px;
-  padding: 0;
+    background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+    border: 0 none;
+    color: #cccccc;
+    height: 4px;
+    padding: 0;
 }
 
 body > h2:first-child {
-  margin-top: 0;
-  padding-top: 0; }
+    margin-top: 0;
+    padding-top: 0; }
 body > h1:first-child {
-  margin-top: 0;
-  padding-top: 0; }
-  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h1:first-child + h2 {
     margin-top: 0;
     padding-top: 0; }
 body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
-  margin-top: 0;
-  padding-top: 0; }
+    margin-top: 0;
+    padding-top: 0; }
 
 a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
-  margin-top: 0;
-  padding-top: 0; }
+    margin-top: 0;
+    padding-top: 0; }
 
 h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
-  margin-top: 0; }
+    margin-top: 0; }
 
 li p.first {
-  display: inline-block; }
+    display: inline-block; }
 li {
-  margin: 0; }
+    margin: 0; }
 ul, ol {
-  padding-left: 30px; }
+    padding-left: 30px; }
 
 ul :first-child, ol :first-child {
-  margin-top: 0; }
+    margin-top: 0; }
 
 dl {
-  padding: 0; }
-  dl dt {
+    padding: 0; }
+dl dt {
     font-size: 14px;
     font-weight: bold;
     font-style: italic;
     padding: 0;
     margin: 15px 0 5px; }
-    dl dt:first-child {
-      padding: 0; }
-    dl dt > :first-child {
-      margin-top: 0; }
-    dl dt > :last-child {
-      margin-bottom: 0; }
-  dl dd {
+dl dt:first-child {
+    padding: 0; }
+dl dt > :first-child {
+    margin-top: 0; }
+dl dt > :last-child {
+    margin-bottom: 0; }
+dl dd {
     margin: 0 0 15px;
     padding: 0 15px; }
-    dl dd > :first-child {
-      margin-top: 0; }
-    dl dd > :last-child {
-      margin-bottom: 0; }
+dl dd > :first-child {
+    margin-top: 0; }
+dl dd > :last-child {
+    margin-bottom: 0; }
 
 blockquote {
-  border-left: 4px solid #dddddd;
-  padding: 0 15px;
-  color: #777777; }
-  blockquote > :first-child {
+    border-left: 4px solid #dddddd;
+    padding: 0 15px;
+    color: #777777; }
+blockquote > :first-child {
     margin-top: 0; }
-  blockquote > :last-child {
+blockquote > :last-child {
     margin-bottom: 0; }
 
 table {
-  padding: 0;border-collapse: collapse; }
-  table tr {
+    padding: 0;border-collapse: collapse; }
+table tr {
     border-top: 1px solid #cccccc;
     background-color: white;
     margin: 0;
     padding: 0; }
-    table tr:nth-child(2n) {
-      background-color: #f8f8f8; }
-    table tr th {
-      font-weight: bold;
-      border: 1px solid #cccccc;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr td {
-      border: 1px solid #cccccc;
-      margin: 0;
-      padding: 6px 13px; }
-    table tr th :first-child, table tr td :first-child {
-      margin-top: 0; }
-    table tr th :last-child, table tr td :last-child {
-      margin-bottom: 0; }
+table tr:nth-child(2n) {
+    background-color: #f8f8f8; }
+table tr th {
+    font-weight: bold;
+    border: 1px solid #cccccc;
+    margin: 0;
+    padding: 6px 13px; }
+table tr td {
+    border: 1px solid #cccccc;
+    margin: 0;
+    padding: 6px 13px; }
+table tr th :first-child, table tr td :first-child {
+    margin-top: 0; }
+table tr th :last-child, table tr td :last-child {
+    margin-bottom: 0; }
 
 img {
-  max-width: 100%; }
+    max-width: 100%; }
 
 span.frame {
-  display: block;
-  overflow: hidden; }
-  span.frame > span {
+    display: block;
+    overflow: hidden; }
+span.frame > span {
     border: 1px solid #dddddd;
     display: block;
     float: left;
@@ -205,98 +206,98 @@ span.frame {
     margin: 13px 0 0;
     padding: 7px;
     width: auto; }
-  span.frame span img {
+span.frame span img {
     display: block;
     float: left; }
-  span.frame span span {
+span.frame span span {
     clear: both;
     color: #333333;
     display: block;
     padding: 5px 0 0; }
 span.align-center {
-  display: block;
-  overflow: hidden;
-  clear: both; }
-  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    clear: both; }
+span.align-center > span {
     display: block;
     overflow: hidden;
     margin: 13px auto 0;
     text-align: center; }
-  span.align-center span img {
+span.align-center span img {
     margin: 0 auto;
     text-align: center; }
 span.align-right {
-  display: block;
-  overflow: hidden;
-  clear: both; }
-  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    clear: both; }
+span.align-right > span {
     display: block;
     overflow: hidden;
     margin: 13px 0 0;
     text-align: right; }
-  span.align-right span img {
+span.align-right span img {
     margin: 0;
     text-align: right; }
 span.float-left {
-  display: block;
-  margin-right: 13px;
-  overflow: hidden;
-  float: left; }
-  span.float-left span {
+    display: block;
+    margin-right: 13px;
+    overflow: hidden;
+    float: left; }
+span.float-left span {
     margin: 13px 0 0; }
 span.float-right {
-  display: block;
-  margin-left: 13px;
-  overflow: hidden;
-  float: right; }
-  span.float-right > span {
+    display: block;
+    margin-left: 13px;
+    overflow: hidden;
+    float: right; }
+span.float-right > span {
     display: block;
     overflow: hidden;
     margin: 13px auto 0;
     text-align: right; }
 
 code, tt {
-  margin: 0 2px;
-  padding: 0 5px;
-  white-space: nowrap;
-  border: 1px solid #eaeaea;
-  background-color: #f8f8f8;
-  border-radius: 3px; }
+    margin: 0 2px;
+    padding: 0 5px;
+    white-space: nowrap;
+    border: 1px solid #eaeaea;
+    background-color: #f8f8f8;
+    border-radius: 3px; }
 
 pre code {
-  margin: 0;
-  padding: 0;
-  white-space: pre;
-  border: none;
-  background: transparent; }
+    margin: 0;
+    padding: 0;
+    white-space: pre;
+    border: none;
+    background: transparent; }
 
 .highlight pre {
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
-  font-size: 13px;
-  line-height: 19px;
-  overflow: auto;
-  padding: 6px 10px;
-  border-radius: 3px; }
+    background-color: #f8f8f8;
+    border: 1px solid #cccccc;
+    font-size: 13px;
+    line-height: 19px;
+    overflow: auto;
+    padding: 6px 10px;
+    border-radius: 3px; }
 
 pre {
-  background-color: #f8f8f8;
-  border: 1px solid #cccccc;
-  font-size: 13px;
-  line-height: 19px;
-  overflow: auto;
-  padding: 6px 10px;
-  border-radius: 3px; }
-  pre code, pre tt {
+    background-color: #f8f8f8;
+    border: 1px solid #cccccc;
+    font-size: 13px;
+    line-height: 19px;
+    overflow: auto;
+    padding: 6px 10px;
+    border-radius: 3px; }
+pre code, pre tt {
     background-color: transparent;
     border: none; }
 
 /* Fork Image*/
 .fork{
-  position: absolute;
-  top:0;
-  left: 0;
-  z-index: 2000;
+    position: absolute;
+    top:0;
+    left: 0;
+    z-index: 2000;
 }
 @media screen and (min-width: 914px) {
     body {
@@ -305,23 +306,23 @@ pre {
     }
 }
 @media print {
-	table, pre {
-		page-break-inside: avoid;
-	}
-	pre {
-		word-wrap: break-word;
-	}
+    table, pre {
+        page-break-inside: avoid;
+    }
+    pre {
+        word-wrap: break-word;
+    }
 }
 </style>
 <title>The Badass List of Essential jQuery Plugins</title>
 
 </head>
 <body>
-  <div class="banner">
+<div class="banner">
     <img src="img/banner.jpg" alt="The Badass List of Essential jQuery Plugins">
-  </div>
+</div>
 <div class="fork">
-  <a href='https://github.com/hasinhayder/essential-jquery-plugins' target='_blank'><img src="img/fork.png" alt="" ></a>
+    <a href='https://github.com/hasinhayder/essential-jquery-plugins' target='_blank'><img src="img/fork.png" alt="" ></a>
 </div>
 <h1>The Badass List of Essential jQuery Plugins</h1>
 
@@ -338,26 +339,26 @@ pre {
 <h3>CSS3 Animations &amp; Transitions</h3>
 
 <p><a href="http://ricostacruz.com/jquery.transit/">Transit</a>: CSS3 Transition and Animation Library<br/>
-<a href="http://github.com/hasinhayder/Nanimator">Nanimator</a>: jQuery Nano Animation library for content blocks<br/>
-<a href="http://dan-silver.github.io/ElementTransitions.js/">ElementTransition</a>: Simple &amp; beautiful transitions for web pages</p>
+    <a href="http://github.com/hasinhayder/Nanimator">Nanimator</a>: jQuery Nano Animation library for content blocks<br/>
+    <a href="http://dan-silver.github.io/ElementTransitions.js/">ElementTransition</a>: Simple &amp; beautiful transitions for web pages</p>
 
 <h3>Events</h3>
 
 <p>
-  <a href="http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html">TouchSwipe</a>: A jQuery plugin for touch and gesture-based interaction<br/>
-  <a href="http://threedubmedia.com/code/event/drag">Drag</a>: A jquery special event plugin that makes the task of adding complex drag interactions, to any element, simple and powerful
+    <a href="http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html">TouchSwipe</a>: A jQuery plugin for touch and gesture-based interaction<br/>
+    <a href="http://threedubmedia.com/code/event/drag">Drag</a>: A jquery special event plugin that makes the task of adding complex drag interactions, to any element, simple and powerful
 </p>
 
 <h3>Filtering &amp; Sorting</h3>
 
 <p><a href="http://www.jscraft.net/plugins/filters.html">Filter</a>: A fantastic grid layout library with smart sorting :)<br/>
-<a href="http://mixitup.io/">MixItUp</a>: An amazing library for different types of sorting and filtering. You will love it for sure!<br/>
-<a href="http://tablesorter.com/docs/">TableSorter</a>: Easy and excellent table sorter plugin.</p>
+    <a href="http://mixitup.io/">MixItUp</a>: An amazing library for different types of sorting and filtering. You will love it for sure!<br/>
+    <a href="http://tablesorter.com/docs/">TableSorter</a>: Easy and excellent table sorter plugin.</p>
 
 <h3>Form Elements - Select Box</h3>
 
 <p><a href="http://harvesthq.github.io/chosen">Choosen</a>: A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes<br/>
-<a href="http://code.octopuscreative.com/fancyselect/">FancySelect</a>: A better select for discerning web developers everywhere.</p>
+    <a href="http://code.octopuscreative.com/fancyselect/">FancySelect</a>: A better select for discerning web developers everywhere.</p>
 
 <h3>Form Validation</h3>
 
@@ -366,14 +367,14 @@ pre {
 <h3>Image Processing, Canvas &amp; SVG</h3>
 
 <p><a href="http://blurjs.com/">BlurJS</a>: A jQuery plugin that produces psuedo-transparent
-blurred elements over other elements<br/>
-<a href="http://www.noeltock.com/tilt-shift-css3-jquery-plugin/">TiltShift</a>: Obtain Tiltshift/Mniature effect using this cool jQuery Plugin.</p>
+    blurred elements over other elements<br/>
+    <a href="http://www.noeltock.com/tilt-shift-css3-jquery-plugin/">TiltShift</a>: Obtain Tiltshift/Mniature effect using this cool jQuery Plugin.</p>
 
 <h3>Layout</h3>
 
 <p><a href="http://isotope.metafizzy.co/">Isotope</a>: A complete layout library<br/>
-<a href="http://masonry.desandro.com/">Masonry</a>: Layout library for Masonry grids<br/>
-<a href="https://github.com/DrewDahlman/Mason">Mason</a>: jQuery Masonry grid with a very useful feature - columns with equal height</p>
+    <a href="http://masonry.desandro.com/">Masonry</a>: Layout library for Masonry grids<br/>
+    <a href="https://github.com/DrewDahlman/Mason">Mason</a>: jQuery Masonry grid with a very useful feature - columns with equal height</p>
 
 <h3>Lazy Loading</h3>
 
@@ -381,54 +382,54 @@ blurred elements over other elements<br/>
 
 <h3>Mouse</h3>
 <p>
-  <a href="http://hasinhayder.github.io/LazyMouse/">LazyMouse</a>: Detect mouse inactivity easily<br/>
+    <a href="http://hasinhayder.github.io/LazyMouse/">LazyMouse</a>: Detect mouse inactivity easily<br/>
 </p>
 
 <h3>Scrolling and Parallax</h3>
 
 <p><a href="http://johnpolacek.github.io/scrollorama/">Scrollorama</a>: The jQuery plugin for doing cool scrolly stuff<br/>
-<a href="http://markdalgleish.com/projects/stellar.js/">Setller.js</a>: Parallax has bener been so easier<br/>
-<a href="http://briangonzalez.org/arbitrary-anchor">Arbitrary Anchor</a>: ARBITRARY ANCHOR SCROLLING FOR ANY ELEMENT ON YOUR PAGE<br/>
-<a href="http://flesler.blogspot.com/2007/10/jqueryscrollto.html">ScrollTo</a>: A simple jQuery plugin for scrolling elements, or the window itself.<br/>
-<a href="http://leafo.net/sticky-kit/">Sticky Kit</a>: Sticky-kit provides an easy way to attach elements to the page when the user scrolls such that the element is always visible.</p>
+    <a href="http://markdalgleish.com/projects/stellar.js/">Setller.js</a>: Parallax has bener been so easier<br/>
+    <a href="http://briangonzalez.org/arbitrary-anchor">Arbitrary Anchor</a>: ARBITRARY ANCHOR SCROLLING FOR ANY ELEMENT ON YOUR PAGE<br/>
+    <a href="http://flesler.blogspot.com/2007/10/jqueryscrollto.html">ScrollTo</a>: A simple jQuery plugin for scrolling elements, or the window itself.<br/>
+    <a href="http://leafo.net/sticky-kit/">Sticky Kit</a>: Sticky-kit provides an easy way to attach elements to the page when the user scrolls such that the element is always visible.</p>
 
 <h3>Sliders</h3>
 
 <p><a href="http://responsive-slides.viljamis.com">Responsive JS</a>: A tiny responsive slider plugin with some cool features, in 1KB only<br/>
-<a href="http://www.sequencejs.com/">Sequence JS</a>: The Slider Reimagined for the Modern Web, comes with fantastic CSS3 transitions and parallux<br/>
-<a href="http://buildinternet.com/project/supersized">Supersized</a>: Fullscreen background slideshow plugin<br/>
-<a href="http://iprodev.com/iview/">iView</a>: Beautiful and slick slider plugin which is responsive too<br/>
-<a href="https://github.com/zurb/orbit">Orbit</a>: Another beautiful slider plugin from Zurb<br/>
-<a href="https://github.com/nicinabox/superslides">Superslider</a>: A fullscreen, hardware accelerated slider for jQuery<br/>
-<a href="http://www.slidesjs.com/">SliderJS</a>: SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.</p>
+    <a href="http://www.sequencejs.com/">Sequence JS</a>: The Slider Reimagined for the Modern Web, comes with fantastic CSS3 transitions and parallux<br/>
+    <a href="http://buildinternet.com/project/supersized">Supersized</a>: Fullscreen background slideshow plugin<br/>
+    <a href="http://iprodev.com/iview/">iView</a>: Beautiful and slick slider plugin which is responsive too<br/>
+    <a href="https://github.com/zurb/orbit">Orbit</a>: Another beautiful slider plugin from Zurb<br/>
+    <a href="https://github.com/nicinabox/superslides">Superslider</a>: A fullscreen, hardware accelerated slider for jQuery<br/>
+    <a href="http://www.slidesjs.com/">SliderJS</a>: SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.</p>
 
 <h3>UI Elements - Images &amp; Photos</h3>
 
 <p><a href="http://zurb.com/playground/twentytwenty">TwentyTwenty - Before &amp; After Differences</a>: TwentyTwenty is a image difference tool which shows you the difference between two images visually<br/>
-<a href="http://cube3x.com/adipoli-jquery-image-hover-plugin/">Adipoli</a>: Adipoli is a simple jQuery plugin used to bring stylish image hover effects<br/>
-<a href="http://srobbin.com/jquery-plugins/backstretch/">BackStretch</a>: a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element<br/>
-<a href="http://timseverien.nl/taggd">Taggd</a>: Taggd is a jQuery plugin that help you create tags on images with, or without a popup!</p>
+    <a href="http://cube3x.com/adipoli-jquery-image-hover-plugin/">Adipoli</a>: Adipoli is a simple jQuery plugin used to bring stylish image hover effects<br/>
+    <a href="http://srobbin.com/jquery-plugins/backstretch/">BackStretch</a>: a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element<br/>
+    <a href="http://timseverien.nl/taggd">Taggd</a>: Taggd is a jQuery plugin that help you create tags on images with, or without a popup!</p>
 
 <h3>UI Elements - Lightboxes &amp; Modals</h3>
 
 <p><a href="http://dimsemenov.com/plugins/magnific-popup/">Magnific Popup</a>: Magnific Popup is a responsive jQuery lightbox plugin that is focused on performance and providing best experience for user with any device<br/>
-<a href="http://flipgallery.net/fliplightbox.html">FlipLightBox</a>: Responsive Lightbox jQuery Plugin<br/>
-<a href="http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/">PrettyPhoto</a>: PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.</p>
+    <a href="http://flipgallery.net/fliplightbox.html">FlipLightBox</a>: Responsive Lightbox jQuery Plugin<br/>
+    <a href="http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/">PrettyPhoto</a>: PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.</p>
 
 <h3>UI Elements - Others</h3>
 
 <p><a href="http://zurb.com/playground/jquery-joyride-feature-tour-plugin">JoyRide - Feature Tour Plugin</a>: As said, it's a beautiful feature tour plugin by Zurb.<br/>
-  <a href="http://simplefocus.com/flowtype/">FlowType JS</a>: Web typography at its finest: font-size and line-height based on element width.<br/>
+    <a href="http://simplefocus.com/flowtype/">FlowType JS</a>: Web typography at its finest: font-size and line-height based on element width.<br/>
 
 <h3>UI Elements - Responsive Menu</h3>
 
 <p><a href="http://jasonweaver.name/lab/flexiblenavigation/">FlexiNav</a>: A Device-Agnostic Approach to Complex Site Navigation. <br/>
-<a href="http://adnantopal.github.io/slimmenu">SlimMenu</a>: Another multilevel responsive menu</p>
+    <a href="http://adnantopal.github.io/slimmenu">SlimMenu</a>: Another multilevel responsive menu</p>
 
 <h3>UI Elements - Scrollers</h3>
 
 <p><a href="http://jamesflorentino.github.io/nanoScrollerJS/">NanoScroller.js</a>: nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.<br/>
-<a href="http://areaaperta.com/nicescroll/">NiceScroll</a>: Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.</p>
+    <a href="http://areaaperta.com/nicescroll/">NiceScroll</a>: Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.</p>
 
 
 <h3>UI Elements - Tables</h3>
@@ -438,7 +439,7 @@ blurred elements over other elements<br/>
 <h3>UI Elements - Tabs</h3>
 
 <p><a href="http://git.aaronlumsden.com/tabulous.js">Tabulous.js</a>: A fantastic jQuery plugin to help you create tabs, easily<br/>
-<a href="www.sunsean.com/nanotabs/">NanoTabs</a>: That's right - beautiful tabs in a nano sized plugin.</p>
+    <a href="www.sunsean.com/nanotabs/">NanoTabs</a>: That's right - beautiful tabs in a nano sized plugin.</p>
 
 <h3>UI Elements - Toolbar</h3>
 
