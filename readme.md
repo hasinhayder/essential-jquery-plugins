@@ -84,6 +84,7 @@ blurred elements over other elements
 ###Typography
 [CircleType.js](http://circletype.labwire.ca/): Circletype.js is a tiny (2.7kb) jQuery plugin that lets you set type on a circle and allows to use any font
 [FitText](http://fittextjs.com/): Fittext makes any text to fit in the container of any size
+[FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 
 ###UI Elements - Calendar
 [CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin
@@ -106,7 +107,6 @@ blurred elements over other elements
 
 ###UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.  
-[FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 [Hubspot Messaging Library](http://github.hubspot.com/messenger/): To show transactional messages in your app
 
 
