@@ -47,7 +47,7 @@ blurred elements over other elements
 [Isotope](http://isotope.metafizzy.co/): A complete layout library  
 [Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
 [Mason](https://github.com/DrewDahlman/Mason): jQuery Masonry grid with a very useful feature - columns with equal height  
-[Freewall](http://vnjs.net/www/project/freewall/): Amazing grid engine!
+[Freewall](http://vnjs.net/www/project/freewall/): Amazing grid engine!  
 [FitJS](http://soulwire.github.io/fit.js/): Fit any div in any container, flawlessly. 
 
 ###Lazy Loading
