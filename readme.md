@@ -115,7 +115,7 @@ blurred elements over other elements
 
 ###UI Elements - Responsive Menu
 [FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation.   
-[SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu
+[SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu  
 [SlideBars](http://plugins.adchsm.me/slidebars/): Slidebars is a jQuery plugin for quickly and easily implementing mobile app-style revealing menus and sidebars into your website.
 
 ###UI Elements - Scrollers
