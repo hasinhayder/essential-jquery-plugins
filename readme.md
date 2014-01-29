@@ -48,7 +48,8 @@ blurred elements over other elements
 [Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
 [Mason](https://github.com/DrewDahlman/Mason): jQuery Masonry grid with a very useful feature - columns with equal height  
 [Freewall](http://vnjs.net/www/project/freewall/): Amazing grid engine!  
-[FitJS](http://soulwire.github.io/fit.js/): Fit any div in any container, flawlessly. 
+[FitJS](http://soulwire.github.io/fit.js/): Fit any div in any container, flawlessly.   
+[Gridster](http://gridster.net/): Gridster is a jQuery plugin that allows building intuitive draggable layouts from elements spanning multiple columns. You can even dynamically add and remove elements from the grid. 
 
 ###Lazy Loading
 [Echo.Js](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/): Simple JavaScript image lazy loading
