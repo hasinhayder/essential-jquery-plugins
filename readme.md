@@ -104,7 +104,6 @@ blurred elements over other elements
 [ImgAreaSelect](https://github.com/odyniec/imgareaselect): ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such as photo notes.
 
 
-
 ###UI Elements - Lightboxes & Modals
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/): Magnific Popup is a responsive jQuery lightbox plugin that is focused on performance and providing best experience for user with any device  
 [FlipLightBox](http://flipgallery.net/fliplightbox.html): Responsive Lightbox jQuery Plugin  
