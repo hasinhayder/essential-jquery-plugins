@@ -100,7 +100,7 @@ blurred elements over other elements
 [Taggd](http://timseverien.nl/taggd): Taggd is a jQuery plugin that help you create tags on images with, or without a popup!  
 [jGallery](http://jgallery.jakubkowalczyk.pl/): Beautiful jQuery photo gallery with albums and preloader  
 [Pongstagr.am](http://pongstr.github.io/pongstagr.am/): A jQuery plugin that lets you display your Instagram media to your website using Bootstrap Front-end styles and modal-plugin.  
-[jGallery](http://jgallery.jakubkowalczyk.pl/): An obtrusive gallery plugin with someamazing effects. 
+[ImgAreaSelect](https://github.com/odyniec/imgareaselect): ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such as photo notes.
 
 
 
