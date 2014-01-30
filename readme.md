@@ -16,10 +16,11 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
 [ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
 
+
 ###Events
 [TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction  
-[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element, simple and powerful  
-[KeyPress](http://dmauro.github.io/Keypress/): 
+[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element.
+[jQuery Hotkeys](https://github.com/jeresig/jquery.hotkeys): jQuery Hotkeys is a plug-in that lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination.
 
 
 ###Filtering & Sorting
@@ -126,6 +127,8 @@ blurred elements over other elements
 
 ###UI Elements - Social Sharing
 [jQuery Tweetable](https://github.com/jmduke/jquery.tweetable.js): A simple li'l plugin that lets you make site content easily tweetable.
+[Share-Button](https://github.com/carrot/share-button): fast, beautiful, and painless social shares
+
 
 ###UI Elements - Tables
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
