@@ -49,10 +49,11 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="356" column="152" selection-start="10402" selection-end="10402" vertical-scroll-proportion="0.67064846" vertical-offset="6015" max-vertical-offset="9522">
+            <state line="368" column="36" selection-start="11504" selection-end="11504" vertical-scroll-proportion="0.88566554" vertical-offset="6105" max-vertical-offset="9522">
               <folding>
                 <element signature="e#1541#2968#1" expanded="true" />
                 <element signature="e#3654#4933#1" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -226,6 +227,7 @@
           <folding>
             <element signature="e#1541#2968#1" expanded="true" />
             <element signature="e#3654#4933#1" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -293,10 +295,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="356" column="152" selection-start="10402" selection-end="10402" vertical-scroll-proportion="0.67064846" vertical-offset="6015" max-vertical-offset="9522">
+        <state line="368" column="36" selection-start="11504" selection-end="11504" vertical-scroll-proportion="0.88566554" vertical-offset="6105" max-vertical-offset="9522">
           <folding>
             <element signature="e#1541#2968#1" expanded="true" />
             <element signature="e#3654#4933#1" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
