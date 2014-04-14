@@ -128,6 +128,7 @@ blurred elements over other elements
 [SlideBars](http://plugins.adchsm.me/slidebars/): Slidebars is a jQuery plugin for quickly and easily implementing mobile app-style revealing menus and sidebars into your website.  
 [MMenu](http://mmenu.frebsite.nl/): A jQuery plugin for creating slick, app look-alike sliding menus for you mobile website with only one line of javascript
 
+
 ###UI Elements - Scrollers
 [NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.  
 [NiceScroll](http://areaaperta.com/nicescroll/): Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.
@@ -138,7 +139,8 @@ blurred elements over other elements
 
 
 ###UI Elements - Tables
-[TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.
+[TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.  
+[EditTable](http://codeb.it/edittable/): Adds editing capability in your table elements
 
 ###UI Elements - Toolbar
 [Toolbar.js](http://paulkinzett.github.io/toolbar/): A jQuery plugin that creates tooltip style toolbars
