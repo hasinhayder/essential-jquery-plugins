@@ -136,7 +136,8 @@ blurred elements over other elements
 
 ###UI Elements - Social Sharing
 [jQuery Tweetable](https://github.com/jmduke/jquery.tweetable.js): A simple li'l plugin that lets you make site content easily tweetable.  
-[Share-Button](https://github.com/carrot/share-button): fast, beautiful, and painless social shares
+[Share-Button](https://github.com/carrot/share-button): fast, beautiful, and painless social shares  
+[Slide Social Button](http://christopheryee.ca/slide-social-buttons/): Slide Social Buttons are a fun way to display your social media buttons.
 
 
 ###UI Elements - Tables
