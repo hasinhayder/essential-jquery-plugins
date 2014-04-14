@@ -16,10 +16,11 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
 [ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
 
+
 ###Events
 [TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction  
-[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element, simple and powerful  
-[KeyPress](http://dmauro.github.io/Keypress/): 
+[Drag](http://threedubmedia.com/code/event/drag): A jquery special event plugin that makes the task of adding complex drag interactions, to any element.  
+[jQuery Hotkeys](https://github.com/jeresig/jquery.hotkeys): jQuery Hotkeys is a plug-in that lets you easily add and remove handlers for keyboard events anywhere in your code supporting almost any key combination.
 
 
 ###Filtering & Sorting
@@ -29,7 +30,8 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 
 ###Form Elements - Select Box
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes  
-[FancySelect](http://code.octopuscreative.com/fancyselect/): A better select for discerning web developers everywhere.
+[FancySelect](http://code.octopuscreative.com/fancyselect/): A better select for discerning web developers everywhere.  
+[Select2](http://ivaynberg.github.io/select2/): Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 
 
 
@@ -47,7 +49,9 @@ blurred elements over other elements
 [Isotope](http://isotope.metafizzy.co/): A complete layout library  
 [Masonry](http://masonry.desandro.com/): Layout library for Masonry grids  
 [Mason](https://github.com/DrewDahlman/Mason): jQuery Masonry grid with a very useful feature - columns with equal height  
-[Freewall](http://vnjs.net/www/project/freewall/): Amazing grid engine!
+[Freewall](http://vnjs.net/www/project/freewall/): Amazing grid engine!  
+[FitJS](http://soulwire.github.io/fit.js/): Fit any div in any container, flawlessly.   
+[Gridster](http://gridster.net/): Gridster is a jQuery plugin that allows building intuitive draggable layouts from elements spanning multiple columns. You can even dynamically add and remove elements from the grid. 
 
 ###Lazy Loading
 [Echo.Js](http://toddmotto.com/echo-js-simple-javascript-image-lazy-loading/): Simple JavaScript image lazy loading
@@ -75,47 +79,61 @@ blurred elements over other elements
 [iView](http://iprodev.com/iview/): Beautiful and slick slider plugin which is responsive too  
 [Orbit](https://github.com/zurb/orbit): Another beautiful slider plugin from Zurb  
 [Superslider](https://github.com/nicinabox/superslides): A fullscreen, hardware accelerated slider for jQuery  
-[SliderJS](http://www.slidesjs.com/): SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions. 
+[SliderJS](http://www.slidesjs.com/): SlidesJS is a responsive slideshow plug-in for jQuery (1.7.1+) with features like touch and CSS3 transitions.   
+[GlideJS](http://jedrzejchalubek.com/glide/): Responsive, lightweight and touch friendly slider that works in every device
 
 ###Sound & Audio
 [Ion.Sound](http://ionden.com/a/plugins/ion.sound/en.html): Nifty jQuery library to play sound on events
+
+###Typography
+[CircleType.js](http://circletype.labwire.ca/): Circletype.js is a tiny (2.7kb) jQuery plugin that lets you set type on a circle and allows to use any font  
+[FitText](http://fittextjs.com/): Fittext makes any text to fit in the container of any size  
+[FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 
 ###UI Elements - Calendar
 [CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin
 
 
-###UI Elements - Images & Photos
+###UI Elements - Images, Galleries & Photos
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
 [Adipoli](http://cube3x.com/adipoli-jquery-image-hover-plugin/): Adipoli is a simple jQuery plugin used to bring stylish image hover effects  
 [BackStretch](http://srobbin.com/jquery-plugins/backstretch/): a simple jQuery plugin that allows you to add a dynamically-resized, slideshow-capable background image to any page or element  
 [Taggd](http://timseverien.nl/taggd): Taggd is a jQuery plugin that help you create tags on images with, or without a popup!  
 [jGallery](http://jgallery.jakubkowalczyk.pl/): Beautiful jQuery photo gallery with albums and preloader  
-[Pongstagr.am](http://pongstr.github.io/pongstagr.am/): A jQuery plugin that lets you display your Instagram media to your website using Bootstrap Front-end styles and modal-plugin.
-
+[Pongstagr.am](http://pongstr.github.io/pongstagr.am/): A jQuery plugin that lets you display your Instagram media to your website using Bootstrap Front-end styles and modal-plugin.  
+[ImgAreaSelect](https://github.com/odyniec/imgareaselect): ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such as photo notes.  
+[Interactive BG](http://www.thepetedesign.com/demos/interactive_bg_demo.html): Create an interactive moving background/object that reacts to viewer's cursor  
+[LightGallery](http://sachinchoolur.github.io/lightGallery/): JQuery lightGallery is a lightweight jQuery lightbox gallery for displaying image and video in a gallery
 
 
 ###UI Elements - Lightboxes & Modals
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/): Magnific Popup is a responsive jQuery lightbox plugin that is focused on performance and providing best experience for user with any device  
 [FlipLightBox](http://flipgallery.net/fliplightbox.html): Responsive Lightbox jQuery Plugin  
-[PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/): PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.
+[PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/): PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.  
+[Remodal](http://vodkabears.github.io/remodal/): Flat, responsive, lightweight, easy customizable modal window plugin with declarative state notation and hash tracking.
 
 ###UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.  
-[FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
-[Hubspot Messaging Library](http://github.hubspot.com/messenger/): To show transactional messages in your app
+[Hubspot Messaging Library](http://github.hubspot.com/messenger/): To show transactional messages in your app  
+[Bootrtrap Progressbar](http://www.minddust.com/bootstrap-progressbar/bootstrap-3.1.0.html): Animated progressbar that is compatible with bootstrap 3x  
+[Prezento](http://ivaldi.github.io/prezento/): Show off your responsive web designs. Include the plugin, apply the settings and you're ready to impress your visitors!
 
 
 
 ###UI Elements - Responsive Menu
 [FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation.   
-[SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu
+[SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu  
+[SlideBars](http://plugins.adchsm.me/slidebars/): Slidebars is a jQuery plugin for quickly and easily implementing mobile app-style revealing menus and sidebars into your website.  
+[MMenu](http://mmenu.frebsite.nl/): A jQuery plugin for creating slick, app look-alike sliding menus for you mobile website with only one line of javascript
 
 ###UI Elements - Scrollers
 [NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.  
 [NiceScroll](http://areaaperta.com/nicescroll/): Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.
 
 ###UI Elements - Social Sharing
-[jQuery Tweetable](https://github.com/jmduke/jquery.tweetable.js): A simple li'l plugin that lets you make site content easily tweetable.
+[jQuery Tweetable](https://github.com/jmduke/jquery.tweetable.js): A simple li'l plugin that lets you make site content easily tweetable.  
+[Share-Button](https://github.com/carrot/share-button): fast, beautiful, and painless social shares
+
 
 ###UI Elements - Tables
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.

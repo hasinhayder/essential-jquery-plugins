@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9111b923-d0d1-42c7-a2c2-38cf146fc94c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="essential-jquery-plugins.iws" />
@@ -31,7 +33,7 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="0" selection-start="5822" selection-end="5822" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2484">
+            <state line="110" column="0" selection-start="7843" selection-end="7843" vertical-scroll-proportion="0.0" vertical-offset="1908" max-vertical-offset="2808">
               <folding />
             </state>
           </provider>
@@ -40,7 +42,7 @@
       <file leaf-file-name="readme.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="313" column="0" selection-start="9225" selection-end="9225" vertical-scroll-proportion="0.0" vertical-offset="5004" max-vertical-offset="8298">
+            <state line="313" column="0" selection-start="9225" selection-end="9225" vertical-scroll-proportion="0.0" vertical-offset="5634" max-vertical-offset="8298">
               <folding />
             </state>
           </provider>
@@ -49,7 +51,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="30" selection-start="443" selection-end="443" vertical-scroll-proportion="-8.411765" vertical-offset="5328" max-vertical-offset="9522">
+            <state line="478" column="121" selection-start="20198" selection-end="20198" vertical-scroll-proportion="0.16129032" vertical-offset="8514" max-vertical-offset="9630">
               <folding>
                 <element signature="e#1541#2968#1" expanded="true" />
                 <element signature="e#3654#4933#1" expanded="true" />
@@ -157,6 +159,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../backbone-tutorial" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -221,14 +236,32 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
+    <entry file="file://$PROJECT_DIR$/readme.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="313" column="0" selection-start="9225" selection-end="9225" vertical-scroll-proportion="0.0" vertical-offset="5634" max-vertical-offset="8298">
+          <folding />
+        </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="30" selection-start="443" selection-end="443" vertical-scroll-proportion="0.0" vertical-offset="5328" max-vertical-offset="9522">
+          <folding>
+            <element signature="e#1541#2968#1" expanded="true" />
+            <element signature="e#3654#4933#1" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="94" column="0" selection-start="5822" selection-end="5822" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2484">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.html">
@@ -250,13 +283,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="94" column="0" selection-start="5822" selection-end="5822" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2484">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.html">
@@ -278,13 +311,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="297" selection-end="297" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="2628">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.html">
@@ -295,13 +328,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="296" selection-end="296" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="2484">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.html">
@@ -312,23 +345,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.md">
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2484">
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/readme.md">
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="0" selection-start="5822" selection-end="5822" vertical-scroll-proportion="0.0" vertical-offset="1620" max-vertical-offset="2484">
+        <state line="110" column="0" selection-start="7843" selection-end="7843" vertical-scroll-proportion="0.0" vertical-offset="1908" max-vertical-offset="2808">
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/readme.html">
@@ -340,7 +373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="30" selection-start="443" selection-end="443" vertical-scroll-proportion="-8.411765" vertical-offset="5328" max-vertical-offset="9522">
+        <state line="478" column="121" selection-start="20198" selection-end="20198" vertical-scroll-proportion="0.16129032" vertical-offset="8514" max-vertical-offset="9630">
           <folding>
             <element signature="e#1541#2968#1" expanded="true" />
             <element signature="e#3654#4933#1" expanded="true" />
