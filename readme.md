@@ -117,7 +117,8 @@ blurred elements over other elements
 [Hubspot Messaging Library](http://github.hubspot.com/messenger/): To show transactional messages in your app  
 [Bootrtrap Progressbar](http://www.minddust.com/bootstrap-progressbar/bootstrap-3.1.0.html): Animated progressbar that is compatible with bootstrap 3x  
 [Prezento](http://ivaldi.github.io/prezento/): Show off your responsive web designs. Include the plugin, apply the settings and you're ready to impress your visitors!  
-[FixTop](http://nnattawat.github.io/fixtop/): A jQuery plugin to fix DOM element to the top when a page scrolls to its position
+[FixTop](http://nnattawat.github.io/fixtop/): A jQuery plugin to fix DOM element to the top when a page scrolls to its position  
+[jQuery FormChimp](http://www.fabioquarantini.com/formchimp/): MailChimp ajax plugin for jQuery
 
 
 
