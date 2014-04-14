@@ -101,24 +101,30 @@ blurred elements over other elements
 [Taggd](http://timseverien.nl/taggd): Taggd is a jQuery plugin that help you create tags on images with, or without a popup!  
 [jGallery](http://jgallery.jakubkowalczyk.pl/): Beautiful jQuery photo gallery with albums and preloader  
 [Pongstagr.am](http://pongstr.github.io/pongstagr.am/): A jQuery plugin that lets you display your Instagram media to your website using Bootstrap Front-end styles and modal-plugin.  
-[ImgAreaSelect](https://github.com/odyniec/imgareaselect): ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such as photo notes.
+[ImgAreaSelect](https://github.com/odyniec/imgareaselect): ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such as photo notes.  
+[Interactive BG](http://www.thepetedesign.com/demos/interactive_bg_demo.html): Create an interactive moving background/object that reacts to viewer's cursor  
+[LightGallery](http://sachinchoolur.github.io/lightGallery/): JQuery lightGallery is a lightweight jQuery lightbox gallery for displaying image and video in a gallery
 
 
 ###UI Elements - Lightboxes & Modals
 [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/): Magnific Popup is a responsive jQuery lightbox plugin that is focused on performance and providing best experience for user with any device  
 [FlipLightBox](http://flipgallery.net/fliplightbox.html): Responsive Lightbox jQuery Plugin  
-[PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/): PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.
+[PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/): PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.  
+[Remodal](http://vodkabears.github.io/remodal/): Flat, responsive, lightweight, easy customizable modal window plugin with declarative state notation and hash tracking.
 
 ###UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.  
-[Hubspot Messaging Library](http://github.hubspot.com/messenger/): To show transactional messages in your app
+[Hubspot Messaging Library](http://github.hubspot.com/messenger/): To show transactional messages in your app  
+[Bootrtrap Progressbar](http://www.minddust.com/bootstrap-progressbar/bootstrap-3.1.0.html): Animated progressbar that is compatible with bootstrap 3x  
+[Prezento](http://ivaldi.github.io/prezento/): Show off your responsive web designs. Include the plugin, apply the settings and you're ready to impress your visitors!
 
 
 
 ###UI Elements - Responsive Menu
 [FlexiNav](http://jasonweaver.name/lab/flexiblenavigation/): A Device-Agnostic Approach to Complex Site Navigation.   
 [SlimMenu](http://adnantopal.github.io/slimmenu): Another multilevel responsive menu  
-[SlideBars](http://plugins.adchsm.me/slidebars/): Slidebars is a jQuery plugin for quickly and easily implementing mobile app-style revealing menus and sidebars into your website.
+[SlideBars](http://plugins.adchsm.me/slidebars/): Slidebars is a jQuery plugin for quickly and easily implementing mobile app-style revealing menus and sidebars into your website.  
+[MMenu](http://mmenu.frebsite.nl/): A jQuery plugin for creating slick, app look-alike sliding menus for you mobile website with only one line of javascript
 
 ###UI Elements - Scrollers
 [NanoScroller.js](http://jamesflorentino.github.io/nanoScrollerJS/): nanoScroller.js is a jQuery plugin that offers a simplistic way of implementing Mac OS X Lion-styled scrollbars for your website.  
