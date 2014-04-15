@@ -112,6 +112,7 @@ blurred elements over other elements
 [FlipLightBox](http://flipgallery.net/fliplightbox.html): Responsive Lightbox jQuery Plugin  
 [PrettyPhoto](http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/): PrettyPhoto is a jQuery lightbox clone. Not only does it support images, it also support for videos, flash, YouTube, iframes and ajax. It’s a full blown media lightbox.  
 [Remodal](http://vodkabears.github.io/remodal/): Flat, responsive, lightweight, easy customizable modal window plugin with declarative state notation and hash tracking.
+[Fluidbox](http://terrymun.github.io/Fluidbox/): Amazingly beautiful inline lightbox
 
 ###UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.  
