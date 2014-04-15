@@ -15,7 +15,7 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [Transit](http://ricostacruz.com/jquery.transit/): CSS3 Transition and Animation Library  
 [Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
 [ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
-
+[Typed.js](http://www.mattboldt.com/demos/typed-js/): Beautiful text being typed animation.
 
 ###Events
 [TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction  
