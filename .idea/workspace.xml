@@ -49,7 +49,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="363" column="73" selection-start="10949" selection-end="10949" vertical-scroll-proportion="0.6770833" vertical-offset="4860" max-vertical-offset="8130">
+            <state line="530" column="20" selection-start="24885" selection-end="24885" vertical-scroll-proportion="0.78545886" vertical-offset="7291" max-vertical-offset="8130">
               <folding>
                 <element signature="e#1541#2968#1" expanded="true" />
                 <element signature="e#3654#4933#1" expanded="true" />
@@ -115,7 +115,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,6 +149,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -371,7 +371,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="363" column="73" selection-start="10949" selection-end="10949" vertical-scroll-proportion="0.6770833" vertical-offset="4860" max-vertical-offset="8130">
+        <state line="530" column="20" selection-start="24885" selection-end="24885" vertical-scroll-proportion="0.78545886" vertical-offset="7291" max-vertical-offset="8130">
           <folding>
             <element signature="e#1541#2968#1" expanded="true" />
             <element signature="e#3654#4933#1" expanded="true" />
