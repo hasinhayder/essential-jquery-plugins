@@ -145,6 +145,8 @@ blurred elements over other elements
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.  
 [EditTable](http://codeb.it/edittable/): Adds editing capability in your table elements
 
+[jQery Data Table](https://datatables.net/): jQuery Data DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
+
 ###UI Elements - Toolbar
 [Toolbar.js](http://paulkinzett.github.io/toolbar/): A jQuery plugin that creates tooltip style toolbars
 
