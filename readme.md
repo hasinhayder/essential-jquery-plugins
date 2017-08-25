@@ -117,6 +117,9 @@ blurred elements over other elements
 [Remodal](http://vodkabears.github.io/remodal/): Flat, responsive, lightweight, easy customizable modal window plugin with declarative state notation and hash tracking.
 [Fluidbox](http://terrymun.github.io/Fluidbox/): Amazingly beautiful inline lightbox
 
+### UI Elements - Maps
+[Mapsed](https://github.com/toepoke/mapsed): Mark a place on any map easily with this nice plugin. 
+
 ### UI Elements - Others
 [JoyRide - Feature Tour Plugin](http://zurb.com/playground/jquery-joyride-feature-tour-plugin): As said, it's a beautiful feature tour plugin by Zurb.  
 [Hubspot Messaging Library](http://github.hubspot.com/messenger/): To show transactional messages in your app  
