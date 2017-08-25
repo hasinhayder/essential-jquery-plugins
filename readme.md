@@ -91,6 +91,9 @@ blurred elements over other elements
 [FitText](http://fittextjs.com/): Fittext makes any text to fit in the container of any size  
 [FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 
+### UI Elements Tree
+[Treed](https://github.com/jaredly/treed): A powerful tree editing component. Treed wants to be for tree editing what ace is for text editing. Extensible, customizible, powerful, and just plain easy to use. Perhaps that's a little ambitious, but that's the idea.
+
 ### UI Elements - Calendar
 [CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin
 
