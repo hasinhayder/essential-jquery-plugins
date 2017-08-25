@@ -96,9 +96,9 @@ blurred elements over other elements
 [FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 
 
-### UI Elements - Calendar
+### UI Elements - Calendar & DateTime
 [CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin
-
+[TimeDropper](https://github.com/felicegattuso/timedropper): Timedropper is a beautiful jQuery UI timepicker.
 
 ### UI Elements - Images, Galleries & Photos
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
