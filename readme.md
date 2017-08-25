@@ -33,7 +33,7 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [Choosen](http://harvesthq.github.io/chosen): A jQuery Plugin by Harvest to Tame Unwieldy Select Boxes  
 [FancySelect](http://code.octopuscreative.com/fancyselect/): A better select for discerning web developers everywhere.  
 [Select2](http://ivaynberg.github.io/select2/): Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-
+[Dropdown](https://github.com/Janking/dropdown): A beautiful jQuery plugin to create dropdown for multiple selections
 
 
 ### Form Validation
