@@ -72,6 +72,8 @@ blurred elements over other elements
 [Sticky Kit](http://leafo.net/sticky-kit/): Sticky-kit provides an easy way to attach elements to the page when the user scrolls such that the element is always visible.  
 [FullPage](http://alvarotrigo.com/fullPage): Create Beautiful Fullscreen Scrolling Websites
 
+### Search
+[LookingFor](https://github.com/albburtsev/jquery.lookingfor): jquery.lookingfor plugin searches text in list items (`<li>`) and hides unmatched items. It works not only for `<li>`s, but for any HTML element on a page. Any input field (input, textarea) can be transformed to search filter with jquery.lookingfor
 
 ### Sliders
 [Responsive JS](http://responsive-slides.viljamis.com): A tiny responsive slider plugin with some cool features, in 1KB only  
