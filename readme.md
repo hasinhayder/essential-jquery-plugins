@@ -43,6 +43,7 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [BlurJS](http://blurjs.com/): A jQuery plugin that produces psuedo-transparent 
 blurred elements over other elements  
 [TiltShift](http://www.noeltock.com/tilt-shift-css3-jquery-plugin/): Obtain Tiltshift/Mniature effect using this cool jQuery Plugin.
+[FightIndicators](https://github.com/sebmatton/jQuery-Flight-Indicators): The Flight Indicators Plugin allows you to display high quality flight indicators using html, css3, jQuery and SVG vector images
 
  
 
