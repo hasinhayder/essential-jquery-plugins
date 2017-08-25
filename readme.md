@@ -91,8 +91,6 @@ blurred elements over other elements
 [FitText](http://fittextjs.com/): Fittext makes any text to fit in the container of any size  
 [FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 
-### UI Elements Tree
-[Treed](https://github.com/jaredly/treed): A powerful tree editing component. Treed wants to be for tree editing what ace is for text editing. Extensible, customizible, powerful, and just plain easy to use. Perhaps that's a little ambitious, but that's the idea.
 
 ### UI Elements - Calendar
 [CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin
@@ -143,6 +141,10 @@ blurred elements over other elements
 [Share-Button](https://github.com/carrot/share-button): fast, beautiful, and painless social shares  
 [Slide Social Button](http://christopheryee.ca/slide-social-buttons/): Slide Social Buttons are a fun way to display your social media buttons.
 
+### UI Elements - Tabs
+[Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily  
+[NanoTabs](www.sunsean.com/nanotabs/): That's right - beautiful tabs in a nano sized plugin. 
+
 
 ### UI Elements - Tables
 [TableCloth.js](http://tableclothjs.com/): Tablecloth.js is a jQuery plugin that helps you easily style HTML tables along with some simple customizations.  
@@ -154,9 +156,12 @@ blurred elements over other elements
 [Toolbar.js](http://paulkinzett.github.io/toolbar/): A jQuery plugin that creates tooltip style toolbars
 
 
-### UI Elements - Tabs
-[Tabulous.js](http://git.aaronlumsden.com/tabulous.js): A fantastic jQuery plugin to help you create tabs, easily  
-[NanoTabs](www.sunsean.com/nanotabs/): That's right - beautiful tabs in a nano sized plugin. 
+### UI Elements - Tree
+[Treed](https://github.com/jaredly/treed): A powerful tree editing component. Treed wants to be for tree editing what ace is for text editing. Extensible, customizible, powerful, and just plain easy to use. Perhaps that's a little ambitious, but that's the idea. 
+
 
 ### UI Elements - WYSIWYG
 [SirTrevor](http://madebymany.github.io/sir-trevor-js/): A beautiful rich content editor reimagined for web.
+
+### Utilities & Others
+[jQuery.Vibrate](https://github.com/illyism/jquery.vibrate.js): This plugin allows developers to vibrate a device (in a pattern) for a given duration.
