@@ -157,6 +157,8 @@ blurred elements over other elements
 
 [jQery Data Table](https://datatables.net/): jQuery Data DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, based upon the foundations of progressive enhancement, and will add advanced interaction controls to any HTML table.
 
+[Mr.JsonTable](https://github.com/MatchingRadar/Mr.JsonTable): HTML Table from JSON data with paging sorting and hideable columns
+
 ### UI Elements - Toolbar
 [Toolbar.js](http://paulkinzett.github.io/toolbar/): A jQuery plugin that creates tooltip style toolbars
 
