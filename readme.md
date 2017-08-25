@@ -108,6 +108,7 @@ blurred elements over other elements
 [ImgAreaSelect](https://github.com/odyniec/imgareaselect): ImgAreaSelect is a jQuery plugin for selecting a rectangular area of an image. It allows web developers to easily implement image cropping functionality, as well as other user interface features, such as photo notes.  
 [Interactive BG](http://www.thepetedesign.com/demos/interactive_bg_demo.html): Create an interactive moving background/object that reacts to viewer's cursor  
 [LightGallery](http://sachinchoolur.github.io/lightGallery/): JQuery lightGallery is a lightweight jQuery lightbox gallery for displaying image and video in a gallery
+[jQuery.ImageFit](https://github.com/periplox/jquery.imagefit): A simple, lightweight plugin to make images fit anywhere and anyway.
 
 
 ### UI Elements - Lightboxes & Modals
