@@ -113,6 +113,7 @@ blurred elements over other elements
 [jQuery.ImageFit](https://github.com/periplox/jquery.imagefit): A simple, lightweight plugin to make images fit anywhere and anyway.
 [Nanogallery 2](https://github.com/nanostudio-org/nanogallery2): Everything you need to add beautiful, modern and high quality photo galleries to your website
 [TimelineJS](https://ilkeryilmaz.github.io/timelinejs/): jQuery timeline plugin, easily creates timeline slider.
+[jQuery MEME Generator](https://github.com/MakG10/jquery-meme-generator): A jQuery plugin for interactive creating images with captions (memes) with basic image editing tools.
 
 
 ### UI Elements - Lightboxes & Modals
