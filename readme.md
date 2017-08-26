@@ -35,6 +35,9 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [Select2](http://ivaynberg.github.io/select2/): Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 [Dropdown](https://github.com/Janking/dropdown): A beautiful jQuery plugin to create dropdown for multiple selections
 
+### Form Elements - Checkbox and Radio
+[LabelAuty](https://github.com/fntneves/jquery-labelauty): A nice and lightweight jQuery plugin that gives beauty to checkboxes and radio buttons and allows custom labels for each status of (un)checked inputs.
+
 
 ### Form Validation
 [Parsley](https://github.com/guillaumepotier/Parsley.js): Javascript form validation, without actually writing a single line of javascript.
