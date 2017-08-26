@@ -112,6 +112,7 @@ blurred elements over other elements
 [LightGallery](http://sachinchoolur.github.io/lightGallery/): JQuery lightGallery is a lightweight jQuery lightbox gallery for displaying image and video in a gallery
 [jQuery.ImageFit](https://github.com/periplox/jquery.imagefit): A simple, lightweight plugin to make images fit anywhere and anyway.
 [Nanogallery 2](https://github.com/nanostudio-org/nanogallery2): Everything you need to add beautiful, modern and high quality photo galleries to your website
+[TimelineJS](https://ilkeryilmaz.github.io/timelinejs/): jQuery timeline plugin, easily creates timeline slider.
 
 
 ### UI Elements - Lightboxes & Modals
