@@ -16,6 +16,7 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 [Nanimator](http://github.com/hasinhayder/Nanimator): jQuery Nano Animation library for content blocks  
 [ElementTransition](http://dan-silver.github.io/ElementTransitions.js/): Simple & beautiful transitions for web pages
 [Typed.js](http://www.mattboldt.com/demos/typed-js/): Beautiful text being typed animation.
+[Tilt.js](https://github.com/gijsroge/tilt.js): A tiny 60+fps parallax tilt hover effect for jQuery
 
 ### Events
 [TouchSwipe](http://www.awwwards.com/touchswipe-a-jquery-plugin-for-touch-and-gesture-based-interaction.html): A jQuery plugin for touch and gesture-based interaction  
@@ -98,9 +99,9 @@ blurred elements over other elements
 [FlowType](http://simplefocus.com/flowtype/): Web typography at its finest: font-size and line-height based on element width.  
 
 
-### UI Elements - Calendar
+### UI Elements - Calendar & DateTime
 [CLNDR](http://kylestetz.github.io/CLNDR/): A jQuery Calendar Plugin
-
+[TimeDropper](https://github.com/felicegattuso/timedropper): Timedropper is a beautiful jQuery UI timepicker.
 
 ### UI Elements - Images, Galleries & Photos
 [TwentyTwenty - Before & After Differences](http://zurb.com/playground/twentytwenty): TwentyTwenty is a image difference tool which shows you the difference between two images visually  
@@ -113,6 +114,9 @@ blurred elements over other elements
 [Interactive BG](http://www.thepetedesign.com/demos/interactive_bg_demo.html): Create an interactive moving background/object that reacts to viewer's cursor  
 [LightGallery](http://sachinchoolur.github.io/lightGallery/): JQuery lightGallery is a lightweight jQuery lightbox gallery for displaying image and video in a gallery
 [jQuery.ImageFit](https://github.com/periplox/jquery.imagefit): A simple, lightweight plugin to make images fit anywhere and anyway.
+[Nanogallery 2](https://github.com/nanostudio-org/nanogallery2): Everything you need to add beautiful, modern and high quality photo galleries to your website
+[TimelineJS](https://ilkeryilmaz.github.io/timelinejs/): jQuery timeline plugin, easily creates timeline slider.
+[jQuery MEME Generator](https://github.com/MakG10/jquery-meme-generator): A jQuery plugin for interactive creating images with captions (memes) with basic image editing tools.
 
 
 ### UI Elements - Lightboxes & Modals
