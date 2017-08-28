@@ -38,6 +38,7 @@ This list is curated by [Hasin Hayder](http://hasin.me)
 
 ### Form Elements - Checkbox and Radio
 [LabelAuty](https://github.com/fntneves/jquery-labelauty): A nice and lightweight jQuery plugin that gives beauty to checkboxes and radio buttons and allows custom labels for each status of (un)checked inputs.
+[Switchery](https://github.com/abpetkov/switchery): iOS 7 style switches for your checkboxes
 
 
 ### Form Validation
