@@ -170,6 +170,8 @@ blurred elements over other elements
 
 [Mr.JsonTable](https://github.com/MatchingRadar/Mr.JsonTable): HTML Table from JSON data with paging sorting and hideable columns
 
+[jQuery Bootgrid](http://www.jquery-bootgrid.com/): Nice, sleek and intuitive. A grid/table control especially designed for bootstrap.
+
 ### UI Elements - Toolbar
 [Toolbar.js](http://paulkinzett.github.io/toolbar/): A jQuery plugin that creates tooltip style toolbars
 
